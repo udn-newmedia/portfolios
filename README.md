@@ -4,12 +4,12 @@
 
 | Date | Title | Link |
 |------|-------|------|
-| `07-09` | 【108課綱大調查】台灣教改 為什麼總失敗 | [新媒體中心](https://udn.com/newmedia/2020/12-years-education/) |
-| `07-09` | 【108課綱大調查】無效預算？揭露108課綱五大亂象 | [新媒體中心](https://udn.com/newmedia/2020/12-years-education/problem/) |
-| `07-09` | 【108課綱大調查】最不快樂的世代 10個關鍵數字看懂台灣教育 | [新媒體中心](https://udn.com/newmedia/2020/12-years-education/data/) |
-| `07-09` | 【108課綱大調查】她的家庭 是台灣升學主義縮影 | [新媒體中心](https://udn.com/newmedia/2020/12-years-education/story/)|
-| `07-09` | 【108課綱大調查】升學主義 教師心中的教改殺手 | [新媒體中心](https://udn.com/newmedia/2020/12-years-education/poll/) |
-| `07-09` | 【108課綱大調查】寫下你的教改心聲 | [新媒體中心](https://udn.com/newmedia/2020/12-years-education/collect/) |
+| `07-09` | 【108課綱大調查】台灣教改 為什麼總失敗 | [連結](https://udn.com/newmedia/2020/12-years-education/) |
+| `07-09` | 【108課綱大調查】無效預算？揭露108課綱五大亂象 | [連結](https://udn.com/newmedia/2020/12-years-education/problem/) |
+| `07-09` | 【108課綱大調查】最不快樂的世代 10個關鍵數字看懂台灣教育 | [連結](https://udn.com/newmedia/2020/12-years-education/data/) |
+| `07-09` | 【108課綱大調查】她的家庭 是台灣升學主義縮影 | [連結](https://udn.com/newmedia/2020/12-years-education/story/)|
+| `07-09` | 【108課綱大調查】升學主義 教師心中的教改殺手 | [連結](https://udn.com/newmedia/2020/12-years-education/poll/) |
+| `07-09` | 【108課綱大調查】寫下你的教改心聲 | [連結](https://udn.com/newmedia/2020/12-years-education/collect/) |
 | `06-04` | 如果，海有你 | [連結](https://udn.com/newmedia/2020/be_the_oar/) |
 | `03-16` | 圖解新冠肺炎台灣病例關係 | [連結](https://udn.com/newmedia/2020/tribute-covid-19-fighters/) |
 | `03-03` | 新冠肺炎 全球疫情即時追蹤 | [連結](https://udn.com/newmedia/2020/covid-19/) |
